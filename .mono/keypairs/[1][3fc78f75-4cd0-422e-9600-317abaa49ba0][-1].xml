@@ -1,9 +1,0 @@
-﻿<KeyPair>
-	<Properties>
-		<Provider Type="1" />
-		<Container Name="3fc78f75-4cd0-422e-9600-317abaa49ba0" />
-	</Properties>
-	<KeyValue>
-		<RSAKeyValue><Modulus>oDYbQS+ZZ+k3WZ8rW+UCKPW7S0KqzQH1+OVpabn4J3vH/ucQ+e2Ev5VTMudEJH5u+AQKn87Wjrdzn/0opaAX6LXqSekTMUko5Plwl22S0i6p54x496g+Yzk0s25Hr+JI88vGIKhUySu3nJ1IatGhlOti2u2pBfaU4lBydYNptHc=</Modulus><Exponent>AQAB</Exponent><P>ssxqZuVm1vsC0i8LFjK700LnCc4YqsVgq6V1VdlhfYh/RgoxJbe8N4N11pP6pqiZuq6OOHpMLZ0t4Oq/+Pe79Q==</P><Q>5WMmsQqyymHjZh+yDf6D3ak2PBC9KlejDeVZiCbfi+K2YBAhsxnrdGTEid9aXUHvYtyal1ktMwc8b4aTaRj3Ow==</Q><DP>d/TfOhOUkI0tklhPhuAY1Z8gJJrqP8BWoDJM64EBgFhQk2wJFzYTB+eh6omzc5bQNMgh0NB0RXIbsresfluu9Q==</DP><DQ>dzJRnbfIdj/tkVixBnKWBS3zn7y2/3SwpvzhzE0e5qq1SC+5wz6Zyk6+jkJAy6sCgOXPcwwE37pH3lAY84jklw==</DQ><InverseQ>Zdja/qpUtkS4Vj8Gh8b/Sv5rXZnpdTJ2t43XGsIvkHvAm+daKZXN6s/rWHpMDADolHmfvByhZmZb40AtCZN7HA==</InverseQ><D>PVAXpB3MTskhBqp0lImTBwvr7sSHy0dZ1DQv4GdsgefMRVA23f85U3yZR5zcJj9Axqf9TOWClUG9/VeMS752B1wITpyzGmV8G3XcN8bnkYGPta7JY/KCDiM0aKWSwOg8DH4sPuqQm6xnOIhhYCPHTrwrNR5X0KK9UZ9mz6IFhwk=</D></RSAKeyValue>
-	</KeyValue>
-</KeyPair>
