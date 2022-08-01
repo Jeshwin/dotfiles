@@ -2,7 +2,7 @@ Autodesk/
 .mono/
 pgcli/
 wireshark/
-*.old/
+nvim.old/
 htop/
 binwalk/
 .DS_Store
